@@ -23,4 +23,4 @@ not a mega framework. It’s not a full-stack solution that’s going to handle 
 to real-time updates over web socket connections. React.js is generally thought of as the view layer in an
 application. React components change what the user sees such as UI elements and Handlebars templates.
 
-This repository is used to improve my React.js skills and to share to other by following the LICENSE file attached 
+This repository is used to improve my React.js skills and to share to others by following the LICENSE file attached 
